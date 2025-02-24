@@ -1,0 +1,24 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-DweIynRi.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/css/fullcalendar.css": {
+    "file": "assets/fullcalendar-CGNoUmQ4.css",
+    "src": "resources/css/fullcalendar.css",
+    "isEntry": true
+  },
+  "resources/css/public.css": {
+    "file": "assets/public-l0sNRNKZ.js",
+    "name": "public",
+    "src": "resources/css/public.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-Dwor1Nv_.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  }
+}
